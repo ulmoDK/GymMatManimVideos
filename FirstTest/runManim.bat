@@ -1,0 +1,1 @@
+C:\ProgramData\Anaconda3\python.exe "C:\Users\ulmo\GitFolder\manim\manim.py" Test1.py WriteText -pl
